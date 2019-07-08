@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">elsafeir</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">الرقم السري</string>
+    <string name="Forget_pass">نسيت كلمة المرور</string>
+    <string name="Creat_account">تسجيل حساب جديد</string>
+    <string name="SignUp">التسجيل</string>
+    <string name="firstName">الاسم الاول</string>
+    <string name="lastName">الاسم الاخير</string>
+    <string name="PhoneNumber">رقم الهاتف</string>
+    <string name="FullAddress">العنوان بالكامل</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="Profile">الصفحة الشخصية</string>
+    <string name="Home">الرئيسية</string>
+    <string name="Requeste">الطلبات</string>
+    <string name="Notifications">الاشعارات</string>
+    <string name="Favourits">المفضلة</string>
+    <string name="Aboutus">من نحن</string>
+    <string name="Setting">الاعدادات</string>
+    <string name="Language">اللغة</string>
+    <string name="Contact_us">تواصل معنا</string>
+    <string name="new_offers">عرض جديد</string>
+    <string name="discount">تخفيض</string>
+    <string name="Recently_added">مضاف حديثاً</string>
+    <string name="whats_on_your_mind">ماذا في ذهنك ؟</string>
+    <string name="Gift_box">صندوق الهدايا</string>
+    <string name="Favorite">المفضلة</string>
+    <string name="Requests">الطلبات</string>
+    <string name="Cart">عربة الطلبات</string>
+    <string name="logout">تسجيل الخدوج</string>
+    <string name="changePassword">تغير كلمة المرور</string>
+    <string name="Categories">الاصناف</string>
+    <string name="Buy_Now">شراء الان</string>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">elsafeir</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Forget_pass">Forget password ?</string>
+    <string name="Creat_account">Create new account</string>
+    <string name="English" translatable="false">English</string>
+    <string name="Arabic" translatable="false">العربية</string>
+    <string name="SignUp">Sign up</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last Name</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="FullAddress">Full Address</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Profile">Profile</string>
+    <string name="Home">Home</string>
+    <string name="Requeste">request</string>
+    <string name="Notifications">Notification</string>
+    <string name="Favourits">Favorite</string>
+    <string name="Aboutus">About us</string>
+    <string name="Setting">Settings</string>
+    <string name="Language">Language</string>
+    <string name="Contact_us">Contact us</string>
+    <string name="Buy_Points" translatable="false">Buy Points</string>
+    <string name="changePassword">Change password</string>
+    <string name="logout">Logout</string>
+    <string name="Categories">Categories</string>
+    <string name="Cart">Cart</string>
+    <string name="Requests">Requests</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Gift_box">Gift box</string>
+    <string name="whats_on_your_mind">what\'s in your mind ?</string>
+    <string name="Recently_added">Recently added</string>
+    <string name="discount">discount</string>
+    <string name="Buy_Now">Buy Now</string>
+    <string name="new_offers">New Offers</string>
+    <string name="TVs_projectors">Televisions and projectors</string>
+    <string name="Air_conditions">Air conditions</string>
+    <string name="Available">Available</string>
+</resources>
